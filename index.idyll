@@ -1,0 +1,14 @@
+[meta title:"My Idyll Post" description:"Short description of your project" /]
+
+[Header
+  title:"Interplanetary missions"
+  subtitle:"A close look at what we know about other planets in the solar system!"
+  author:"Monikka Ravichandran"
+  authorLink:"https://monikka.github.io" /]
+
+[var name:"mercuryStep" value:1 /]
+[Scroller currentStep:mercuryStep /]
+[Timeline/]
+
+
+[Scroller/]

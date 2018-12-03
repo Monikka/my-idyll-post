@@ -1,0 +1,253 @@
+LaunchYear,CountryofOrigin,Spacecraft,Target,Status,Notes,Organization,LaunchDate,Type,CarrierRocket
+1957,Soviet Union,Sputnik 1,Moon,Success,The first human-made object to orbit Earth.,,October 4,,Sputnik-PS
+1957,Soviet Union,Sputnik 2,Moon,Success,"The first satellite to carry a living animal, a dog named Laika.",,November 3,,Sputnik-PS
+1957,USA,Vanguard 1A,Moon,Failed,"The first stage engine was improperly started, causing the vehicle to fall back to the launch pad immediately after launch and explode.[1]",NASA,December 6,,Vanguard TV-3
+1958,USA,Explorer 1,Moon,Success,The first American satellite in space.[1],NASA,January 31,,Jupiter-C
+1958,USA,Vanguard 1B,Moon,Failed,Control failure caused vehicle breakup at T+57 seconds as vehicle exceeded an angle of attack of 45° due to a control system malfunction.[1],NASA,February 5,,Vanguard TV-3BU
+1958,USA,Explorer 2,Moon,Failed,Failed to orbit. Fourth stage did not ignite.[1],NASA,March 5,,Jupiter-C
+1958,USA,Vanguard 1C,Moon,Success,"Vanguard 1. Expected to de-orbit in ~2240AD, this and its upper launch stage are the oldest human-made objects in space. Also the first use of solar cells to power a satellite.[1]",NASA,March 17,,Vanguard TV-4
+1958,USA,Explorer 3,Moon,Success,Added to data received by Explorer 1.[1],NASA,March 26,,Jupiter-C
+1958,Soviet Union,Sputnik 3,Moon,Failed,Rocket engine failure at 12 - 15 km. [2],,April 27,,Sputnik 89A1
+1958,USA,Vanguard 2A,Moon,Failed,"Second stage shutdown sequence not completed, preventing proper 3rd stage separation and firing. Did not reach orbit.[1]",NASA,April 29,,Vanguard TV-5
+1958,Soviet Union,Sputnik 3,Moon,Success,Contained 12 instruments for a wide range of upper atmosphere tests.,,May 15,,Sputnik
+1958,USA,Vanguard 2B,Moon,Failed,The first production model of the series. Nominal flight until a guidance error was encountered on second stage burnout. Did not reach orbit.[1],NASA,May 28,,Vanguard SLV-1
+1958,USA,Vanguard 2C,Moon,Failed,Premature second stage cutoff prevented third stage operation. Did not reach orbit.[1],NASA,June 26,,Vanguard SLV-2
+1958,USA,Explorer 4,Moon,Success,Expanded data set of previous Explorer missions and collected data from Argus high-altitude nuclear explosions.[1],NASA,July 26,,Jupiter-C
+1958,USA,Pioneer 0,Moon,Failed,Failed to orbit. First stage engine failure caused explosion at T+77 seconds.,NASA,August 17,,Thor-Able 1
+1958,USA,Explorer 5,Moon,Failed,On-board instruments damaged on first stage separation. Failed to orbit.[1],NASA,August 24,,Jupiter-C
+1958,USA,Vanguard 2D,Moon,Failed,"Second stage under-performed, lacking only ~76 m/s (~250 fps) required to achieve orbit.[1]",NASA,September 26,,Vanguard SLV-3
+1958,USA,Pioneer 1,Moon,Partial Success,"First spacecraft launched by NASA. Studied Earth's magnetic fields. Third stage provided insufficient thrust to reach the Moon, leaving it sub-orbital.[3]",NASA,October 11,,Thor-Able 1
+1958,USA,Beacon 1,Moon,Failed,A thin plastic sphere (12-feet in diameter) intended to study atmosphere density.[3] Payload dropped due to rotational vibrations.[1],NASA,October 22,,Jupiter-C
+1958,USA,Pioneer 2,Moon,Failed,Briefly provided further data on Earth's magnetic field. Third stage provided insufficient thrust to reach the vicinity of the Moon.[3],NASA,November 8,,Thor-Able 1
+1958,USA,Pioneer 3,Moon,Partial Success,"Did not reach moon as intended, but discovered a second radiation belt around Earth.[3]",NASA,December 6,,Juno II
+1959,Soviet Union,Luna 1,Moon,Success,"The first spacecraft to reach the vicinity of the Moon, and the first spacecraft to be placed in heliocentric orbit.",,January 2,,Luna
+1959,USA,Vanguard 2E,Moon,Success,Vanguard 2. Measured cloud cover. First photo of Earth from a satellite. Precession motion resulted in difficulty interpreting data.[3],NASA,February 17,,Vanguard SLV-4
+1959,USA,Pioneer 4,Moon,Success,"Passed within 60,030 km (37,300 mi) of the Moon into a heliocentric orbit, returning excellent radiation data.[3]",NASA,March 3,,Juno II
+1959,USA,Vanguard 3A,Moon,Failed,"Failed to orbit. Second stage hydraulics failure led to loss of control, damaged at launch. Two spheres included as payload.[3]",NASA,April 13,,Vanguard SLV-5
+1959,USA,Vanguard 3B,Moon,Failed,Failed to orbit. Second stage exploded due to stuck helium vent valve. Intended to measure weather effects related to solar-Earth heating processes.[3],NASA,June 22,,Vanguard SLV-6
+1959,USA,Explorer S-1,Moon,Failed,Did not achieve orbit. Guidance system power malfunction. Destroyed by range safety officer at T+5.5s.[3],NASA,July 16,,Juno II
+1959,USA,Explorer 6,Moon,Success,Included instruments to study particles and meteorology.[3],NASA,August 7,,Thor-Able 3
+1959,USA,Beacon 2,Moon,Failed,Premature cutoff of first stage caused upper stage malfunction.[3],NASA,August 14,,Juno II
+1959,Soviet Union,Luna 2,Moon,Success,"The first spacecraft to reach the surface of the Moon, and the first human-made object to land on another celestial body.",,September 12,,Luna
+1959,USA,Vanguard 3,Moon,Success,Incorporated Allegany Ballistics Laboratory X248 A2 as third stage.[1] Solar-powered sphere measured radiation belts and micrometeorite impacts.[3],NASA,September 18,,Vanguard TV-4BU
+1959,Soviet Union,Luna 3,Moon,Success,The first mission to photograph the Far side of the Moon.,,October 4,,Luna
+1959,USA,Explorer 7,Moon,Success,"Provided data on energetic particles, radiation, and magnetic storms. Also recorded the first micrometeorite penetration of a sensor.[3]",NASA,October 13,,Juno II
+1959,USA,Pioneer P-3,Moon,Failed,Lunar orbiter probe; payload shroud broke away after 45 seconds.[3],NASA,November 26,,Atlas-Able 20
+1960,USA,Pioneer 5,Sun,Success,"Solar monitor. Measured magnetic field phenomena, solar flare particles, and ionization in the interplanetary region[4]",,March 11,,Thor-Able
+1960,Soviet Union,Korabl-Sputnik 1,Earth,Success,"First test flight of the Soviet Vostok programme, and the first Vostok spacecraft",,May 15,,Vostok-L
+1960,Soviet Union,Korabl-Sputnik 2,Earth,Success,First spaceflight to send animals into orbit and return them safely back to Earth,,August 19,,Vostok-L
+1961,USA,Ranger 1,Moon,Failure,Rocket malfunction caused the spacecraft to get stranded in low earth orbit.[5],,August 23,,Atlas-Agena
+1961,USA,Ranger 2,Moon,Failure,Booster rocket malfunction caused spacecraft to be trapped in low earth orbit.[6],,November 18,,Atlas-Agena
+1962,USA,Ranger 3,Moon,Failure,NASA's first attempt to land a spacecraft on the moon. A series of malfunctions caused spacecraft to hurtle past the moon.[7],,January 26,,Atlas-Agena
+1962,USA,Ranger 4,Moon,Mostly Failure,Was the first U.S. spacecraft to reach another celestial body. Failure in the onboard computer prevented it from carrying out its scientific objectives.[8],,April 23,,Atlas-Agena
+1962,UK,Ariel 1,Earth,Success,First British satellite in space (on American rocket),,April 26,,Thor-Delta
+1962,USA,Telstar 1,Earth,Success,Communication satellite,,July 10,,Thor-Delta
+1962,USA,Mariner 2,Venus,Success,First spacecraft to visit another planet,,August 27,,Atlas-Agena
+1962,Canada,Alouette 1,Earth,Success,"First Canadian satellite (on American rocket), first satellite not constructed by the US or USSR",,September 29,,Thor-Agena
+1962,USA,Ranger 5,Moon,Failure,"Malfunction in the spacecraft's batteries caused them to drain after 8 hours, leaving it inoperable.[9]",,October 18,,Atlas-Agena
+1963,USA,Vela,Earth,Success,Series of satellites to monitor compliance to the 1963 Partial Test Ban Treaty,,First pair - October 17,,Atlas-Agena
+1964,Italy,San Marco 1,Earth,Success,First Italian satellite (on American rocket),,December 15,,Scout X-4
+1964,USA,Ranger 6,Moon,Success,Lunar impactor. Successful impact but power failure resulted in no pictures.,,February 2,,Atlas-Agena
+1964,USA,Ranger 7,Moon,Success,Lunar impactor. Returned pictures until impact.,,July 31,,Atlas-Agena
+1965,USA,Ranger 8,Moon,Success,Lunar impactor. Returned pictures until impact.,,February 2,,Atlas-Agena
+1965,USA,Ranger 9,Moon,Success,Lunar impactor. Live TV broadcast until impact.,,February 20,,Atlas-Agena
+1965,France,Asterix,Earth,Success,First French satellite,,November 26,,Diamant A
+1965,USA,Mariner 4,Mars,Success,First deep space photographs of another planet and first flyby of Mars,,November 28,,Atlas-Agena
+1965,Canada,Alouette 2,Earth,Success,Research satellite designed to explore Earth's ionosphere,,November 29,,Thor-Agena
+1965,USA,Pioneer 6,Sun,Success,"A series of solar-orbiting, spin-stabilized, solar-cell and battery-powered satellites designed to obtain measurements on a continuing basis of interplanetary phenomena from widely separated points in space.[10]",,December 16,,Delta E
+1966,Soviet Union,Luna 9,Moon,Success,"First spacecraft to achieve a soft landing on the Moon, or any planetary body other than Earth, and to transmit photographic data to Earth from the surface of another planetary body.",,January 31,,Molniya M
+1966,USA,Surveyor 1,Moon,Success,First US soft landing; Surveyor program performed various tests in support of forthcoming manned landings.[11],,June 2,,Atlas-Centaur
+1966,USA,Explorer 33,Earth,Partial Success,"Was intended to orbit the moon but instead orbited the earth. Explored solar winds, interplanetary plasma, and solar X-rays.",,July 1,,Delta E1
+1966,USA,Lunar Orbiter 1,Moon,Success,First US spacecraft to orbit the Moon. Designed to photograph smooth areas of the lunar surface for selecting landing sites.,,August 10,,Atlas SLV-3 Agena-D
+1966,USA,Pioneer 7,Sun,Success,"A series of solar-orbiting, spin-stabilized, solar-cell and battery-powered satellites designed to obtain measurements on a continuing basis of interplanetary phenomena from widely separated points in space.[10]",,August 17,,Delta E1
+1966,USA,Surveyor 2,Moon,Failure,Lunar Lander. A failure in one of its three thrusters caused it to lose control and crash into the moon.[12],,September 20,,Atlas LV-3C Centaur-D
+1966,USA,Lunar Orbiter 2,Moon,Success,Designed to photograph smooth areas of the lunar surface to identify landing sites.,,November 06,,Atlas SLV-3 Agena-D
+1967,USA,Surveyor 3,Moon,Success,Second successful lunar surface lander. Conducted experiments to see how the lunar surface would fare against the weight of an Apollo lunar module.[13],,April 17,,Atlas LV-3C Centaur-D
+1967,USA,Mariner 5,Venus,Success,"Flyby of Venus with a minimum distance of 5,000 km",,June 14,,Atlas SLV-3 Agena-D
+1967,USA,Surveyor 4,Moon,Failure,"Despite a perfect flight to the moon, communications was lost 2.5 minutes prior to landing. NASA concluded the spacecraft may have exploded. [14]",,July 14,,Atlas LV-3C Centaur-D
+1967,USA,Surveyor 5,Moon,Success,"Lunar lander. First spacecraft to do a soil analysis of any world. Returned more than 20,000 photos.[15]",,September 08,,Atlas SLV-3 Agena-D
+1967,USA,Surveyor 6,Moon,Success,Lunar lander. First spacecraft to be launched from the surface of the moon. It lifted itself to a height of about 3 meters. [16],,November 07,,Atlas SLV-3 Agena-D
+1967,Australia,WRESAT,Earth,Success,"First Australian satellite (on American rocket) launched from Woomera, Australia.",,November 29,,Sparta
+1967,USA,Pioneer 8,Sun,Success,"A series of solar-orbiting, spin-stabilized, solar-cell and battery-powered satellites designed to obtain measurements on a continuing basis of interplanetary phenomena from widely separated points in space.[10]",,December 13,,Delta E1
+1968,USA,Surveyor 7,Moon,Success,Lunar lander. Only spacecraft in the series to land in the lunar highland region and had the most extensive set of instruments. [17],,January 07,,Atlas SLV-3 Agena-D
+1968,USA,Pioneer 9,Sun,Success,"A series of solar-orbiting, spin-stabilized, solar-cell and battery-powered satellites designed to obtain measurements on a continuing basis of interplanetary phenomena from widely separated points in space.[10]",,November 08,,Delta E1
+1969,Canada,ISIS 1,Earth,Success,International Satellites for Ionospheric Studies (ISIS),,January 30,,Delta E1
+1969,USA,Mariner 6,Mars,Success,Mars probe attempting to study the surface and atmosphere of Mars during close flybys to establish a basis for further investigations.[18],,February 25,,Atlas SLV-3D Agena-D1A
+1969,USA,Mariner 7,Mars,Success,Mars probe attempting to study the surface and atmosphere of Mars during close flybys to establish a basis for further investigations.[19],,March 27,,Atlas SLV-3D Agena-D1A
+1970,Japan,Ohsumi,Earth,Success,First Japanese satellite,,,,
+1970,Soviet Union,Venera 7,Venus,Success,First successful landing of a spacecraft on another planet,,,,
+1970,Soviet Union,Luna 16,Moon,Success,Lander is the first automated return of samples from the Moon,,,,
+1970,Soviet Union,Zond 8,Moon,Success,Flyby,,,,
+1970,Soviet Union,Luna 17/Lunokhod 1,Moon,Success,Lander/rover is the first automated surface exploration of the Moon,,,,
+1970,UK,Orba (satellite),Earth,Failure,Second stage of rocket shutdown 13 seconds early,,,,
+1970,USA,Uhuru,Earth,Success,First dedicated X-ray astronomy satellite,,,,
+1970,China,Dong Fang Hong I,Earth,Success,First Chinese satellite,,,,
+1971,Soviet Union,Luna 18,Moon,Failure,Lander,,,,
+1971,Soviet Union,Luna 19,Moon,Success,Orbiter,,,,
+1971,USA,Mariner 8,Mars,Failure,Orbiter. Lost due to launch failure.,,,,
+1971,Soviet Union,Cosmos 419,Mars,Failure,Probe,,,,
+1971,Soviet Union,Mars 2,Mars,Partial Failure,"Orbiter and lander, created the first human artifact on Mars",,,,
+1971,Soviet Union,Mars 3,Mars,Partial Success,"Orbiter and lander, first successful landing on Mars",,,,
+1971,USA,Mariner 9,Mars,Success,"Orbiter, first pictures of Mars' moons (Phobos and Deimos) taken",,,,
+1971,Canada,ISIS 2,Earth,Success,,,,,
+1971,Japan,Shinsei,Earth,Partial success,First Japanese science satellite,,,,
+1971,UK,Prospero X-3,Earth,Success,"Satellite, first satellite launched by Britain using a British rocket",,,,
+1971,UK,Ariel 4,Earth,Success,,,,,
+1972,Soviet Union,Venera 8,Venus,Success,Lander,,,,
+1972,Soviet Union,Luna 20,Moon,Success,Lander,,,,
+1972,USA/ UK,Copernicus – Orbiting Astronomical Observatory-3,Earth,Success,,,,,
+1972,USA,Pioneer 10,Jupiter,Success,First spacecraft to encounter Jupiter,,,,
+1972,USA,Explorer 49,Sun,Success,Solar probe,,,,
+1973,USA,Mariner 10,Venus/Mercury,Success,"It passed by and photographed Mercury, also was the first dual planet probe",,,,
+1973,USA,Pioneer 11,Jupiter/Saturn,Success,First spacecraft to encounter Saturn,,,,
+1973,Soviet Union,Luna 21/Lunokhod 2,Moon,Success,Lander/rover,,,,
+1973,Soviet Union,Mars 4,Mars,Failure,Orbiter,,,,
+1973,Soviet Union,Mars 5,Mars,Success,Orbiter,,,,
+1973,Soviet Union,Mars 6,Mars,Failure,Orbiter and lander,,,,
+1973,Soviet Union,Mars 7,Mars,Failure,Orbiter and lander,,,,
+1974,West Germany,Helios 1,Sun,Success,Solar probe,,,,
+1974,Soviet Union,Luna 22,Moon,Success,Orbiter,,,,
+1974,Soviet Union,Luna 23,Moon,Failure,Probe,,,,
+1974,UK,Ariel 5,Earth,Success,X-ray satellite,,,,
+1975,Soviet Union,Venera 9,Venus,Success,Returns the first pictures of the surface of Venus,,,,
+1975,Soviet Union,Venera 10,Venus,Success,Orbiter and lander,,,,
+1975,USA,Viking 1,Mars,Success,Orbiter and lander; lands on Mars 1976,,,,
+1975,USA,Viking 2,Mars,Success,Orbiter and lander; lands on Mars 1976,,,,
+1975,India,Aryabhata,Earth,Success,"Launched by USSR, the first Indian satellite",,,,
+1976,West Germany,Helios 2,Sun,Success,Solar probe,,,,
+1976,Soviet Union,Luna 24,Moon,Success,Lander,,,,
+1976,Canada/ USA/ Europe,Communications Technology Satellite,Earth,Success,Prototype for testing direct broadcast satellite television on the Ku band,,,,
+1976,Netherlands/ USA,Astronomische Nederlandse Satelliet(ANS),Earth,Success,"Discovered X-ray bursts, first Dutch satellite (with US contributions)[20]",,,,
+1976,USA,Orbiting Solar Observatory,Sun,Success,X-ray satellite shows that X-ray bursts have blackbody spectra,,,,
+1977,USA,HEAO-1,Earth,Success,X-ray satellite,,,,
+1977,Soviet Union,Kosmos 954,Earth,Success,Reconnaissance satellites,,,,
+1978,USA,Pioneer Venus 1,Venus,Success,Orbiter,,,,
+1978,USA,Pioneer Venus 2,Venus,Success,Atmospheric probe,,,,
+1978,Soviet Union,Venera 11,Venus,Partial Success,Flyby and lander,,,,
+1978,Soviet Union,Venera 12,Venus,Success,Flyby and lander,,,,
+1978,. USA/ UK/ Europe,International Ultraviolet Explorer,Earth,Success,,,,,
+1978,USA,HEAO-2,Earth,Success,First X-ray photographs of astronomical objects,,,,
+1979,India,Satellite Launch Vehicle,,Failure,India's first rocket launched,,,,
+1979,Japan,Hakucho,Earth,Success,X-ray satellite,,,,
+1979,UK,Ariel 6,Earth,Success,Cosmic-ray and X-ray satellite,,,,
+1979,USA,Voyager 1 Voyager 2,Jupiter,Success,Send back images of Jupiter and its system,,,,
+1979,India,Bhaskara-1,Earth,Success,Launched by ISRO (First Indian low orbit Earth Observation Satellite),,,,
+1980,USA,Solar Maximum Mission,Sun,Failure,Solar Maximum Mission solar probe succeeded after being repaired in Earth orbit,,,,
+1981,India,,Earth,Success,"Bhaskara-2 India, launched by ISRO",,,,
+1981,Soviet Union,,Venus,Success,"Venera 13 launched, it returned the first colour pictures of the surface of Venus",,,,
+1981,Soviet Union,,Venus,Success,Venera 14 flyby and lander,,,,
+1981,Bulgaria,,Earth,Success,"Bulgaria 1300, polar research mission, launched by the Soviet Union",,,,
+1983,Soviet Union,,Venus,Success,Venera 15 orbiter,,,,
+1983,Soviet Union,,Venus,Success,Venera 16 orbiter,,,,
+1983,Europe,,Earth,Success,Launch of the EXOSAT X-ray satellite,,,,
+1983,Japan,,Earth,Success,Launch of the Tenma X-ray satellite (ASTRO-B),,,,
+1983,USA/ Netherlands/ UK,,Earth,Success,Launch of the IRAS satellite,,,,
+1984,Soviet Union,,Venus/Halley's Comet,Success,"Vega 1 flyby, atmospheric probe and lander",,,,
+1984,Soviet Union,,Venus/Halley's Comet,Success,"Vega 2 flyby, atmospheric probe and lander",,,,
+1985,Mexico,,Earth,Success,"Morelos I, the first Mexican satellite",,,,
+1986,Europe,,Halley's Comet,Success,Giotto flyby,,,,
+1987,Japan,,Earth,Success,Launch of the Ginga X-ray satellite (ASTRO-C),,,,
+1988,Soviet Union,,Mars,Failure,Phobos 1 orbiter and lander,,,,
+1988,Soviet Union,,Mars,Partial Failure,Phobos 2 flyby and lander,,,,
+1989,USA,,Venus,Success,Magellan orbiter launched which mapped 99 percent of the surface of Venus (300 m resolution),,,,
+1989,USA,,Venus/Earth/Moon/Gaspra/Ida/Jupiter,Success,"Galileo flyby, orbiter and atmospheric probe",,,,
+1989,USA,,Neptune,Success,Voyager 2 sends back images of Neptune and its system,,,,
+1989,Europe,,Earth,Success,Launch of the Hipparcos satellite,,,,
+1989,USA,,Earth,Success,Launch of the COBE satellite,,,,
+1989,Soviet Union,,Earth,Success,Launch of the Granat gamma-ray and X-ray satellite,,,,
+1990,USA/ Europe,,Sun,Success,Ulysses solar flyby,,,,
+1990,Japan,,Moon,Success,"Hiten probe, this was the first non-United States or USSR probe to reach the Moon",,,,
+1990,USA/ Europe,,Earth,Success,Launch of the Hubble Space Telescope,,,,
+1990,Germany,,Earth,Success,Launch of the ROSAT X-ray satellite to conduct the first imaging X-ray sky survey,,,,
+1991,Japan,,Sun,Success,Yohkoh solar probe,,,,
+1991,USA,,Earth,Success,Launch of the Compton Gamma-Ray Observatory satellite,,,,
+1992,USA,,Mars,Failure,Mars Observer orbiter,,,,
+1993,Japan,,Earth,Success,Launch of the ASCA (ASTRO-D) X-ray satellite,,,,
+1994,USA,,Moon,Success,Clementine orbiter mapped the surface of the Moon (resolution 125–150 m) and allowed the first accurate relief map of the Moon to be generated,,,,
+1995,Mexico,,Earth,Failure,"Unamsat 1, First UNAM built orbiter",,,,
+1995,Europe,,Earth,Success,Launch of the Infrared Space Observatory,,,,
+1995,Europe/ USA,,Sun,Success,SOHO solar probe,,,,
+1996,USA,,433 Eros,Success,NEAR Shoemaker asteroid flybys/orbiter/lander,,,,
+1996,USA,,Mars,Success,Mars Global Surveyor orbiter,,,,
+1996,USA,,Mars,Success,"Mars Pathfinder, the first automated surface exploration of another planet",,,,
+1996,Russia,,Mars,Failure,Mars 96 orbiter and lander,,,,
+1996,Argentina,,Earth,Failure,Sac-B Orbiter,,,,
+1997,USA/ Europe,,Saturn and Titan,Success,"Cassini-Huygens arrived in orbit on July 1, 2004, landed on Titan January 14, 2005",,,,
+1997,Argentina,,Earth,Success,Nahuel 1A First Argentine satellite - geostationary communications satellites,,,,
+1998,North Korea,,Earth,Unknown,Claimed launch of Kwangmyongsong-1 by North Korea though no independent source was able to verify its existence,,,,
+1998,USA,,Moon,Success,Lunar Prospector orbiter,,,,
+1998,Japan,,Mars,Failure,"Nozomi (Planet B) orbiter, the first Japanese spacecraft to reach another planet",,,,
+1998,USA,,Mars,Failure,Mars Climate Orbiter,,,,
+1998,Argentina /  USA,,Earth,Success,Sac-A Orbiter,,,,
+1999,USA,,Mars,Failure,Mars Polar Lander,,,,
+1999,USA,,Mars,Failure,Deep Space 2 (DS2) penetrators,,,,
+1999,USA,,Earth,Success,Launch of the Chandra X-ray Observatory,,,,
+1999,Europe,,Earth,Success,"Launch of the X-Ray Multi-Mirror Mission, XMM-Newton",,,,
+2000,UK,,Earth,Success,SNAP-1 robotic camera enabling images to be sent to other spacecrafts orbiting the Earth,,,,
+2000,Argentina,,Earth,Success,SAC-C Orbiter,,,,
+2001,USA,,Sun,Partial Success,Genesis solar wind sample crash-landed on return,,,,
+2001,USA,,Earth,Success,Wilkinson Microwave Anisotropy Probe (WMAP) performs cosmological observations.,,,,
+2001,USA,,Mars,Success,Mars Odyssey,,,,
+2001,Europe,,Earth,Success,PROBA-1 Small satellite to observe the Earth (first Belgian Satellite),,,,
+2003,Canada,,Earth,Success,MOST the smallest space telescope in orbit,,,,
+2003,USA,,Comet Encke,Failure,"CONTOUR launched, but lost during early trajectory insertion.",,,,
+2003,Europe,,Moon,Success,Smart 1 orbiter,,,,
+2003,Europe,,Mars,Partial Success,"Mars Express orbiter (successfully reached orbit) and failed lander, the Beagle 2",,,,
+2003,USA,,Mars,Success,"Mars Exploration Rovers successful launches, Spirit successfully landed, Opportunity successfully landed",,,,
+2003,UK,,Earth,Success,"UK-DMC orbiter, part of the Disaster Monitoring Constellation",,,,
+2003,Japan,,25143 Itokawa,Success,"Hayabusa, first sample return from asteroid, returned in 2010",,,,
+2004,Europe,,Comet 67P,Success,"Rosetta space probe launched (arrived on comet 67P on November 12, 2014)",,,,
+2004,USA,,Mercury,Success,MESSENGER orbiter launched (in Mercury orbit),,,,
+2004,USA,,Earth,Success,Launch of the Swift Gamma ray burst observatory.,,,,
+2005,USA,,Comet Tempel 1,Success,Deep Impact,,,,
+2005,Japan,,Earth,Partial success,Launch of the Suzaku X-ray observatory (ASTRO-EII),,,,
+2005,USA,,Mars,In orbit,Mars Reconnaissance Orbiter,,,,
+2005,Iran,,Earth,Success,"Sinah-1 launched, first Iranian-built satellite",,,,
+2005,Europe,,Venus,Success,Venus Express,,,,
+2006,USA,,Pluto,Success,"New Horizons launched. On July 14, 2015, New Horizons flew within 7,750 miles (12,472 km) of Pluto.",,,,
+2006,Japan,,Earth,Success,Launch of the Akari infrared observatory (ASTRO-F),,,,
+2006,France/ESA,,Earth,Success,COROT telescope to search for extrasolar planets,,,,
+2007,USA,,Mars,Success,Phoenix launched and successfully landed in 2008,,,,
+2007,Japan,,Moon,Success,SELENE orbiter and lander,,,,
+2007,USA,,Vesta/Ceres,In Ceres Orbit,Dawn solar powered ion engined probe to 4 Vesta and 1 Ceres.,,,,
+2007,China,,Moon,Success,Chang'e-I lunar orbiter,,,,
+2007,Nigeria,,Earth,Initial success,"NigComSat-1 launched by China, failed after 1 year",,,,
+2008,USA,,Earth,"Launched, operating",IBEX,,,,
+2009,Europe,,L2,Success,Planck,,,,
+2009,Europe,,L2,Success,Herschel Space Observatory,,,,
+2009,Iran,,Earth,Success,Omid launched by Iranian made launcher Safir. First Iranian-launched satellite,,,,
+2009,USA,,Earth,Success,Kepler launched,,,,
+2009,Europe,,Earth,Success,PROBA-2 Small satellite to observe the sun,,,,
+2009,India,,Earth,Success,"RISAT-2 developed by Israel Aerospace Industries, launched by ISRO, India",,,,
+2009,India,,Moon,Success,"Chandrayaan-1 developed and launched by ISRO, India",,,,
+2009,UK,,Earth,Success,"UK-DMC 2 orbiter, successor to UK-DMC part of the Disaster Monitoring Constellation",,,,
+2010,Japan,,Venus,Partial success,"Akatsuki orbiter, first Japanese spacecraft to orbit another planet",,,,
+2010,Japan,,Venus,Success,"IKAROS, first solar-sail spacecraft",,,,
+2010,China,,Moon,Success,Chang'e-2 lunar orbiter/impacter,,,,
+2011,USA,,Jupiter,Success,Juno,,,,
+2011,Russia,,Mars,Failure,Fobos-Grunt lander and sample return,,,,
+2011,Nigeria,,Earth,Success,NigComSat-1 replacement launched by China,,,,
+2011,Argentina /  USA,,Earth,Success,SAC-D Orbiter,,,,
+2012,Iran,,Earth,Launched,Navid earth-watching satellite,,,,
+2012,USA,,Mars,Success,Mars Science Laboratory with Curiosity rover—orbit and landed,,,,
+2012,North Korea,,Earth,Launched,"Kwangmyŏngsŏng-3 Unit 2, first successful North Korean orbital rocket launch",,,,
+2013,Poland,,Earth,Launched,"PW-Sat, first Polish satellite",,,,
+2013,South Korea,,Earth,Launched,"STSAT-2C, first successful South Korean orbital rocket launch",,,,
+2013,Canada,,Earth,Success,"NEOSSat, monitoring near-Earth objects",,,,
+2013,Canada,,Earth,Success,"Sapphire, military space surveillance",,,,
+2013,Europe,,Earth,Success,PROBA-V Small satellite to monitor the vegetation of the Earth,,,,
+2013,UK,,Earth,Success,"STRaND-1, first smartphone-operated satellite to be launched and dubbed the world's first ""phonesat""",,,,
+2013,Japan,,Earth,Launched,Hisaki planetary atmosphere observatory,,,,
+2013,Canada,,Earth,Success,"CASSIOPE, ionosphere research and communication satellite",,,,
+2013,India,,Mars,Success,Mars Orbiter Mission,,,,
+2013,USA,,Mars,Success,MAVEN orbiter,,,,
+2013,Poland,,Earth,Launched,"Lem, First Polish scientific satellite",,,,
+2014,Europe,,Comet 67P,Partial success,"Rosetta and Philae, Third comet landing at unintended site in suboptimal orientation due to failure of surface anchoring system",,,,
+2014,Poland,,Earth,Launched,"Heweliusz, Second Polish scientific satellite",,,,
+2014,Japan,,162173 Ryugu,Launched and en route,"Hayabusa 2, Second Japanese asteroid sample return spacecraft",,,,
+2014,Japan,,2000 DP107,Partial failure,PROCYON deep space probe,,,,
+2015,United States,,Earth-Sun L1,Success,"DSCOVR, Earth and space weather",,,,
+2015,India,,Earth,Success,"Astrosat, Space observatory",,,,
+2016,European Union /  Russia,,Mars,Partial success,"ExoMars Trace Gas Orbiter, Trace Gas Orbiter in orbit; Schiaparelli lander crashed",,,,
+2016,Canada,,Earth,Success,"M3MSat, maritime monitoring and communication satellite",,,,
+2017,Brazil,,Earth,Success,"SGDC-1, Communication satellite",,,,
