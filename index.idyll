@@ -6,9 +6,55 @@
   author:"Monikka Ravichandran"
   authorLink:"https://monikka.github.io" /]
 
+[div className:"line"][/div]
+[br/]
+
+[div className:"text"]
+How much do we know about our solar system? Do we know how well our planet fares aginst other planets? What are some of the anomalous objects in our solar system?
+[/div]
 [var name:"mercuryStep" value:1 /]
 [Scroller currentStep:mercuryStep /]
-[Timeline/]
 
-
-[Scroller/]
+[Step]
+[data name:"missions" source:"Dataset.csv" /]
+[Table data:missions showPagination:true defaultPageSize:10/]
+[data name:"planets" source:"PlanetaryData.csv" /]
+[IdyllVegaLite data:planets title: "Relation b/w Distance from Sun & Mean Temperature" spec: `{
+  width: 600,
+  height: 400,
+  mark: { type:"circle", size:25},
+  selection: {
+    view: {type: "interval", bind: "scales"}
+  },
+  encoding: {
+    tooltip: [
+      {field: "Planet", type: "nominal"},
+      {field: "Diameter", type: "quantitative"},
+      {field: "AverageDistanceFromSun", type: "quantitative"},
+      {field: "MeanSurfaceTemperature", type: "quantitative"} ],
+    x: { field: "AverageDistanceFromSun",
+         type: "quantitative",
+         axis: { title: "Avg Distance from Sun (AU)" },
+         scale: { domain:[0, 40] }
+    },
+    y: { field: "MeanSurfaceTemperature",
+         type: "quantitative",
+         axis: { title: "Mean Surface Temperature (K)" },
+         scale: { domain:[0, 800] }
+    },
+    color: {field: "MeanSurfaceTemperature", type: "quantitative",
+            legend: { title: "Temperature Scale in Kelvin", direction: "horizontal" },
+            scale: { domain: [100,1000], range: ["#33B8FF", "#FF5733"] } },
+    size: {
+      field: "Diameter",
+      type: "quantitative",
+      scale: {type: "threshold", domain: [2000, 5000, 7000, 20000, 100000, 140000]},
+      legend: {
+              title: "Diameter Threshold in km",
+              symbolFillColor: "white"
+      }
+    }
+  }
+}` /]
+[/Step]
+[Scroller /]
