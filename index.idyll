@@ -11,6 +11,8 @@
 
 [div className:"text"]
 How much do we know about our solar system? Do we know how well our planet fares aginst other planets? What are some of the anomalous objects in our solar system?
+My initial motivation for the project was from the lack of visualizations explaining some basic facts about our solar system in an interesting and simple way that anyone could understand regardless of their knowledge in the field. While there are several sites and posts on the model of our solar system, there aren’t many that list similarities and differences found between planets by comparing their facts, identifying anomalous bodies that deviate from the natural tendencies of planets and exploring the scientific reasons for such outliers.
+
 [/div]
 [var name:"mercuryStep" value:1 /]
 [Scroller currentStep:mercuryStep /]
